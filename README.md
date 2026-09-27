@@ -3,12 +3,19 @@
 ## University of Engineering and Technology, Abbottabad Campus
 
 **Course:** Software Construction
+
 **Lab Task:** 06 – Abstract Data Types (ADT)
+
 **Semester:** 5th Semester
+
 **Program:** Software Engineering
+
 **Instructor:** Engr. Rizwan Shah
+
 **Student:** Ihsan Ullah
+
 **Registration No:** 24ABSWE0026
+
 **Date:** 22 September 2026
 
 ---
