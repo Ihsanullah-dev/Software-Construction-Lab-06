@@ -409,9 +409,13 @@ The Stack task demonstrated the LIFO principle, the Student task demonstrated da
 # Author
 
 **Ihsan Ullah**
+
 Registration No: **24ABSWE0026**
+
 Software Engineering – 5th Semester
+
 University of Engineering and Technology, Abbottabad Campus
 
 **Course:** Software Construction
+
 **Instructor:** Engr. Rizwan Shah
